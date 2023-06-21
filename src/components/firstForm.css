@@ -1,0 +1,25 @@
+#password_help > div[class=""]{
+    /* width:1000px; */
+    /* height:70px; */
+    display: none !important;
+}
+#password_help > .ant-form-item-explain-success{
+    display: none !important;
+}
+.ant-form-item-explain-error{
+    width: 360px;
+}
+.ant-form-item-control-input{
+    width:400px;
+}
+.ant-form-item{
+    margin-right: 50% !important;
+}
+.first-form{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+label[for="confirmPassword"]{
+    margin-right: 100px !important;
+}
